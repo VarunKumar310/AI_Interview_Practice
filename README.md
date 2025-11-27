@@ -40,6 +40,14 @@ The result feels like a real interview: adaptive, challenging, supportive, and d
 - **Backend (Node/Python)** – Session flow, agent communication, scoring logs  
 - **Frontend (Web/Flutter)** – UI for interviewing and viewing reports  
 
+To support this architecture, you can also refer to the following detailed design documents:
+
+📄 **DETAILED DOCUMENT :**  
+https://drive.google.com/file/d/1uZmMUQtHQafCMLlUjky-GG_UWvkpXRA7/view?usp=drivesdk
+
+📄 **DETAILED VIDEO DEMONSTRATION :**  
+https://drive.google.com/file/d/1CPnDGUeILibGMAZ7G9PpKPVOrNNsZnZq/view?usp=drivesdk
+
 # ⭐ Why This Stack
 
 CrewAI provides structured, human-like collaboration across multiple agents—something single LLM calls cannot replicate. The stack is modular, scalable, easy to maintain, and tuned for real-time adaptive conversation.
@@ -53,3 +61,16 @@ CrewAI provides structured, human-like collaboration across multiple agents—so
 - **Realistic Interview Feel.** Feels like a trained interviewer, not a chatbot.  
 - **Transparent & Practical.** Every follow-up has a reason; every score maps to action.
 
+# ⭐ Future Scope
+
+1. **Integration with MCP Tools for Faster, Smarter Execution**  
+   As more Model Context Protocol (MCP) tools become available, we can integrate external scoring modules, domain-specific knowledge bases, and real-time context fetchers directly into the agent workflow. This will significantly reduce latency, improve accuracy, and make interviews more industry-relevant and up-to-date.
+
+2. **Multi-Modal Interviewing (Video + Voice Analysis)**  
+   Future versions can analyze user tone, hesitation, facial expressions, and confidence level during video interviews. This brings the system even closer to real HR assessments and allows deeper behavioural scoring.
+
+3. **Adaptive Difficulty Based on User Progress**  
+   The system can track the user’s improvement over multiple interviews and automatically adjust the difficulty, identify persistent weaknesses, and generate personalized micro-lessons or drills to help the user strengthen specific areas.
+
+4. **Plug-and-Play Agent Extensions for End-to-End Preparation**  
+   Using CrewAI’s modular design, we can easily add new agents like a Resume Fixer Agent, Communication Coach Agent, or Company-Specific Research Agent. This expands the tool from an interview simulator into a complete career-readiness companion.
