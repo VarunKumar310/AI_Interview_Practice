@@ -168,7 +168,7 @@ An intelligent, multi-agent interview simulation platform that helps candidates 
 
 ---
 
-⭐ Why This Problem
+##⭐ Why This Problem
 
 India’s job market is fiercely competitive, where success often hinges not on what you know—but on how you express it under pressure. Every year, millions of students graduate with technical knowledge but fail to crack interviews due to lack of structured practice, real-time feedback, and familiarity with interviewer behavior.
 
@@ -190,11 +190,11 @@ That’s exactly what AI Interview Practice Partner delivers.
 
 ---
 
-🚀 Solution — What Our Interview Practice Partner Does
+##🚀 Solution — What Our Interview Practice Partner Does
 
 Our system uses CrewAI-powered multi-agent architecture to recreate realistic, intelligent, and adaptive interview sessions. Instead of one chatbot, it’s powered by a team of AI agents, each with a distinct role — Interviewer, Follow-Up Evaluator, Scoring Agent, and Feedback Generator.
 
-🧠 How It Works
+##🧠 How It Works
 
 1. Setup & Personalization – You choose a role (Software Engineer, Data Analyst, etc.), experience level, and difficulty. Optionally, upload your resume for tailored questions.
 
@@ -229,7 +229,7 @@ The outcome feels like a real interview panel — structured, challenging, suppo
 
 ---
 
-✨ Key Features
+##✨ Key Features
 
 🎯 Interview Simulation
 
@@ -355,7 +355,7 @@ CrewAI allows structured agent collaboration — enabling each AI (Interviewer, 
 
 ---
 
-🌟 Unique Selling Points (USP)
+##🌟 Unique Selling Points (USP)
 
 🧩 Multi-Agent Intelligence: Each agent mimics real interviewer behavior — probing, evaluating, and scoring collaboratively.
 
@@ -371,7 +371,7 @@ CrewAI allows structured agent collaboration — enabling each AI (Interviewer, 
 
 ---
 
-🔧 Installation & Setup
+##🔧 Installation & Setup
 
 Backend
 
@@ -398,7 +398,7 @@ App available at http://localhost:5173
 
 ---
 
-🧭 API Endpoints
+##🧭 API Endpoints
 
 Category	Endpoint	Description
 
@@ -414,7 +414,7 @@ Multi-Agent	POST /crew-interview-*	Manage full AI agent workflow
 
 ---
 
-🔮 Future Scope
+##🔮 Future Scope
 
 1. Integration with MCP Tools
 Connect domain-specific APIs and live data fetchers to make interviews more realistic and up-to-date.
@@ -436,7 +436,7 @@ Extend the ecosystem with Resume Fixer, Communication Coach, or Company-Specific
 
 ---
 
-🎬 Demo & Documentation
+##🎬 Demo & Documentation
 
 🎥 Demo Video: Watch here
 📘 Documentation: View full report
@@ -444,7 +444,7 @@ Extend the ecosystem with Resume Fixer, Communication Coach, or Company-Specific
 
 ---
 
-🤝 Contributing
+##🤝 Contributing
 
 1. Fork the repo
 
