@@ -42,10 +42,10 @@ The result feels like a real interview: adaptive, challenging, supportive, and d
 
 To support this architecture, you can also refer to the following detailed design documents:
 
-📄 **DETAILED DOCUMENT :**  
+📄 **DETAILED VIDEO DEMONSTRATION :**  
 https://drive.google.com/file/d/1uZmMUQtHQafCMLlUjky-GG_UWvkpXRA7/view?usp=drivesdk
 
-📄 **DETAILED VIDEO DEMONSTRATION :**  
+📄 **DETAILED DOCUMENT :**  
 https://drive.google.com/file/d/1CPnDGUeILibGMAZ7G9PpKPVOrNNsZnZq/view?usp=drivesdk
 
 # ⭐ Why This Stack
