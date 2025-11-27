@@ -74,3 +74,6 @@ CrewAI provides structured, human-like collaboration across multiple agents—so
 
 4. **Plug-and-Play Agent Extensions for End-to-End Preparation**  
    Using CrewAI’s modular design, we can easily add new agents like a Resume Fixer Agent, Communication Coach Agent, or Company-Specific Research Agent. This expands the tool from an interview simulator into a complete career-readiness companion.
+
+
+**Empowering every learner with interview confidence—building skilled individuals for a stronger India.**
